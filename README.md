@@ -1,0 +1,2 @@
+# AlgorithmQuestions
+Algoritma soruları takılmaca
